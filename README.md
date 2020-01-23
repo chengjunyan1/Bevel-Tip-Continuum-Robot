@@ -25,8 +25,8 @@ Modify drawTrajectory.m to run the curve simulation.
 
 Dynamical Modeling
 
-![image](https://github.com/chengjunyan1/MSRR-System/raw/master/DM.png)
+![image](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/DM.png)
 
 Trajectory Planning
 
-![image](https://github.com/chengjunyan1/MSRR-System/raw/master/RRT.png)
+![image](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/RRT.png)
