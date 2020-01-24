@@ -25,10 +25,4 @@ Modify drawTrajectory.m to run the curve simulation.
 
 ## Sample
 
-Dynamical Modeling
-
-![image](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/DM.png  =400x300)
-
-Trajectory Planning
-
-![image](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/RRT.png =400x300)
+![image](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/dm&rrt.png)
