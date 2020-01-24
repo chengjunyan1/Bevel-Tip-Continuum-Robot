@@ -5,7 +5,7 @@ Dynamical modeling for Bevel Tip Continuum Robot and a RRT* 3D Trajectory Planne
 
 **Prerequisite:** MATLAB
 
-This repository contains a Dynamical Modeling for the Bevel Tip Continuum Robot and a 3D Trajectory Planner based on RRT* and their simulation runs on MATLAB I developed for the term project in WPI RBE501 Robot Dynamics (This is a team (2 students) project, the other team member is responsible for the trajectory tracking controller of this robot, *Please note that this is not the whole project, it only shows my part in the project*). 
+This repository contains a Dynamical Modeling for the Bevel Tip Continuum Robot and a 3D Trajectory Planner based on RRT* and their simulation runs on MATLAB I developed for the term project in WPI RBE501 Robot Dynamics (This is a team (2 students) project, the other team member is responsible for the trajectory tracking controller of this robot, *Please note that this repository do not show the whole project, it only shows my part in the project*). 
 
 The Project Reports folder contains my part in the written final report, presentation ppt, and my voice recordings of the final presentation.
 
