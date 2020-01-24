@@ -29,6 +29,7 @@ Dynamical Modeling
 
 ![image](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/DM.png)
 
+
 Trajectory Planning
 
 ![image](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/RRT.png)
