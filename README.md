@@ -7,7 +7,7 @@ Dynamical modeling for Bevel Tip Continuum Robot and a RRT* 3D Trajectory Planne
 
 This repository contains a Dynamical Modeling for the Bevel Tip Continuum Robot and a 3D Trajectory Planner based on RRT* and their simulation runs on MATLAB I developed for the term project in WPI RBE501 Robot Dynamics. The project goal is to control a bevel tip continuum robot to reach a given target point while avoid obstacles in tissue. This is a team (2 students) project, the other team member is a ME student responsible for the trajectory tracking controller. *Please note that this repository do not show the whole project, it only shows my part in the project.* 
 
-The Project Reports folder contains my part in the written final report, presentation ppt, and my voice recordings of the final presentation.
+The Project Reports folder contains my part in the written final report, presentation ppt, and my voice recordings of the final presentation which are related to the content of this repository..
 
 **The Dynamical Modeling method comes from:** 
 
@@ -17,11 +17,11 @@ Rossa, C., Sloboda, R., Usmani, N. *et al.* Estimating needle tip deflection in 
 
 ## How to use:
 
-Just run beveltip.m to see the demo.
+1. Just run beveltip.m to see the demo.
 
-Modify CONFIG.m to change the simulation environment.
+2. Modify CONFIG.m to change the simulation environment.
 
-Modify drawTrajectory.m to run the curve simulation.
+3. Modify drawTrajectory.m to run the curve simulation.
 
 ## Sample
 
