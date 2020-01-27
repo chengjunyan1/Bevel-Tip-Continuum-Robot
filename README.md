@@ -17,11 +17,11 @@ Rossa, C., Sloboda, R., Usmani, N. *et al.* Estimating needle tip deflection in 
 
 ## How to use:
 
-Just run beveltip.m to see the demo.
+1. Just run beveltip.m to see the demo.
 
-Modify CONFIG.m to change the simulation environment.
+2. Modify CONFIG.m to change the simulation environment.
 
-Modify drawTrajectory.m to run the curve simulation.
+3. Modify drawTrajectory.m to run the curve simulation.
 
 ## Sample
 
