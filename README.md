@@ -29,5 +29,5 @@ Rossa, C., Sloboda, R., Usmani, N. *et al.* Estimating needle tip deflection in 
 
 ### RRT*
 
-![Alt Text](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/rrtgif.gif)
+![alt-text](https://github.com/chengjunyan1/Bevel-Tip-Continuum-Robot/raw/master/rrtgif.gif)
 
